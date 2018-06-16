@@ -1,0 +1,26 @@
+{
+  "name": "chinese-poems",
+  "version": "1.0.0",
+  "description": "Fantastic Chinese Poems✨",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LouisMelo/chinese-poems.git"
+  },
+  "keywords": [
+    "chinese",
+    "poems"
+  ],
+  "author": "Louis Melo <jsyzliuxb0918@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LouisMelo/chinese-poems/issues"
+  },
+  "homepage": "https://github.com/LouisMelo/chinese-poems#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.1"
+  }
+}
