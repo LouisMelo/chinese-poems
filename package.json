@@ -1,6 +1,6 @@
 {
   "name": "chinese-poems",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Fantastic Chinese Poems✨",
   "main": "src/index.js",
   "scripts": {
